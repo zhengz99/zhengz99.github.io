@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "logo.png"
+  name             : "Zheng Zhang (张征)"
+  avatar           : "logo.jpg"
   bio              : ""
   location         : "Hefei, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhengz99"
+  github           : "zhengz99"
   google_plus      :
   keybase          :
   instagram        :
