@@ -17,11 +17,19 @@ I am a PhD student at the School of Computer Science and Technology, University 
     **Zheng Zhang**, Qi Liu, Hao Jiang, Fei Wang, Yan Zhuang, Le Wu, Weibo Gao, Enhong Chen  
     *The 37th Conference on Neural Information Processing Systems (NeurIPS'2023), New Orleans, USA, Dec 10-16, 2023.* 
 
-2. Understanding and Improving Fairness in Cognitive Diagnosis.  
+2. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling. 
+    **Zheng Zhang**, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, and Qingyang Mao.
+    *In Proceedings of the ACM Web Conference 2024 (WWW ’24), May 13–17, 2024, Singapore, Singapore.* 
+
+3. Understanding and Improving Fairness in Cognitive Diagnosis.  
     **Zheng Zhang**, Le Wu, Qi Liu, Jiayu Liu, Zhenya Huang, Yan Zhuang, Weibo Gao, Enhong Chen. 
    *SCIENCE CHINA Information Sciences (SCIS), 2023.* (CCF A, Impact Factor: 8.8).
 
-3. Leveraging Transferable Knowledge Concept Graph Embedding for Cold-Start Cognitive Diagnosis.  
+4. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework。
+   Zirui Hu, **Zheng Zhang**, Qi Liu, Haoyang Bi, Zhenya Huang, Qingyang Mao, Weibo Gao, Wenjun Feng
+   *DASFAA 2024 July 2-5, 2024, Gifu, Japan.*
+
+4. Leveraging Transferable Knowledge Concept Graph Embedding for Cold-Start Cognitive Diagnosis.  
    Weibo Gao, Hao Wang, Qi Liu, Fei Wang, Xin Lin, Linan Yue, **Zheng Zhang**, Rui Lv, Shijin Wang.  
    In *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).*
 
