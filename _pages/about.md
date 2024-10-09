@@ -8,15 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (USTC). My supervisor is [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests include **Educational Data Mining** and **Fairnesss in User Modeling**.
+
+I’m  a third-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by Prof. Qi Liu (http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness  in LLM** and  **User Modeling**.
+
 
 
 ## Publications
 
-1. [FairLISA: Fair User Modeling with Limited Sensitive Attributes Information.](https://openreview.net/pdf?id=uFpjPJMkv6)  
-    
-    **Zheng Zhang**, Qi Liu, Hao Jiang, Fei Wang, Yan Zhuang, Le Wu, Weibo Gao, Enhong Chen.  
-    *The 37th Conference on Neural Information Processing Systems (NeurIPS'2023), New Orleans, USA, Dec 10-16, 2023.* 
+1. **Zheng Zhang**, Wei Song, Qi Liu, Qingyang Mao, et al. Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation. Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024) 
+
+2. **Zheng Zhang**, Qi Liu*, Hao Jiang, Fei Wang, et al.  FairLISA: Fair User Modeling with Limited Sensitive Attributes Information. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023). 
+
+3. **Zheng Zhang**, Qi Liu*, Zirui Hu, Yi Zhan, et al. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling, The 33rd International World Wide Web Conference (WWW'2024).
+
+4. **Zheng Zhang**, Le Wu, Qi Liu*, Jiayu Liu,et al.   Understanding and Improving Fairness in Cognitive Diagnosis, SCIENCE CHINAInformation Sciences (SCIS).(CCF-A, JCR Q1, IF: 7.3)
+
+5. Zirui Hu, **Zheng Zhang**, Qi Liu, Haoyang Bi, et al. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework. DASFAA 2024 July 2-5, 2024, Gifu, Japan.
+
+6. Zirui Hu, **Zheng Zhang**, Wenjun Feng, Qi Liu. Achieving Universal Fairness in Machine Learning: A Multi-objective Optimization Perspective.The 17th International Conference on Knowledge Science, Engineering and Management (KSEM 2024).
+
+7. Rui Li, Liuyang He, Qi Liu, Yuze Zhao, **Zheng Zhang**, Zhenya Huang. CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework. The 37th AAAI Conference on Artificial Intelligence (AAAI 2024)
+
+8. Weibo Gao, Qi Liu, Hao Wang, Linan Yue, **Zheng Zhang**, Xin Li, Yuanjing He. Zero-1-to-3: Domain-level Zero-shot Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objectives.The 37th AAAI Conference on Artificial Intelligence (AAAI 2024).
+
+9. Weibo Gao, Hao Wang, Qi Liu, Fei Wang, Xin Lin, Linan Yue, **Zheng Zhang**, Rui Lv, Shijin Wang.Leveraging Transferable Knowledge Concept Graph Embedding for Cold-Start Cognitive Diagnosis.In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
+
+10. Weibo Gao, Qi Liu, Linan Yue, Fangzhou Yao, Hao Wang, Yin Gu, **Zheng Zhang**. Collaborative Cognitive Diagnosis with Disentangled Representation Learning.  Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024) 
+
+11. Qingyang Mao, Qi Liu, Zhi Li, Likang Wu, Bing Lv, **Zheng Zhang**. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
+<!-- 
+1. Zheng Zhang, Wei Song, Qi Liu, Qingyang Mao, et al. Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation. Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024) 
+
+2. Zheng Zhang, Qi Liu*, Hao Jiang, Fei Wang, et al.  FairLISA: Fair User Modeling with Limited Sensitive Attributes Information. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023). 
 
 2. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling.
     
@@ -48,7 +71,7 @@ Multilingual Code Retrieval Framework.
 Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objectives.
 
    Weibo Gao, Qi Liu, Hao Wang, Linan Yue, **Zheng Zhang**, Xin Li, Yuanjing He. The 37th AAAI Conference
-on Artificial Intelligence (AAAI 2024). Accepted, 2024. (CCF-A Conference)
+on Artificial Intelligence (AAAI 2024). Accepted, 2024. (CCF-A Conference) -->
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
