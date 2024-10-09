@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m  a third-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by Prof. Qi Liu (http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness  in LLM** and  **User Modeling**.
+I’m  a third-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**.
 
 
 
