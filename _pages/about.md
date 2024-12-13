@@ -12,8 +12,68 @@ redirect_from:
 I’m  a third-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**.
 
 
+## 📰 News
+
+- 🎉 Two papers accepted at AAAI 2025. Congratulations to Weibo and Junfeng!
+- 🎉 Two papers accepted at KDD 2025. Congratulations to Lirui and Weibo!
+- 🎉 One paper accepted at EMNLP 2024 Main. Congratulations to Lirui!
+- 🎉 One paper accepted at WSDM 2025. Congratulations to Yanmin!
+- 🎉 Two papers (one as first author) accepted at NeurIPS 2024. Congratulations to Weibo, and special thanks to Prof. Qi Liu and Prof. Zhenya Huang for the guidance!
+
+## 📚 Publications
+
+### 2025
+
+1. Weibo Gao, Qi Liu*, Rui Li, Yuze Zhao, Hao Wang, Linan Yue, Fangzhou Yao, **Zheng Zhang**. **Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**, The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7, 2025. Accepted.
+
+2. Weibo Gao, Qi Liu*, Linan Yue, Fangzhou Yao, Rui Lv, **Zheng Zhang**, Hao Wang, Zhenya Huang. **Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
+
+
+3. Junfeng Kang, Rui Li, Qi Liu, Zhenya Huang, **Zheng Zhang**, Yanjiang Chen, Linbo Zhu, Yu Su. **Distribution-Driven Dense Retrieval: Modeling Many-to-One Query-Document Relationship**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
+
+
+4. Rui Li, Junfeng Kang, Qi Liu*, Liyang He, **Zheng Zhang**, Yunhao Sha, Linbo Zhu, Zhenya Huang, MGS3: A Multi-Granularity Self-Supervised Code Search Framework. The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7. Accepted.
+
+5. Rui Li, Qi Liu, Liyang He, **Zheng Zhang**, Hao Zhang, Shengyu Ye, Junyu Lu, Zhenya Huang. Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+
+### 2024
+
+1. **Zheng Zhang**, Wei Song, Qi Liu, Qingyang Mao, et al. **Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation**, Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
+
+2. **Zheng Zhang**, Qi Liu*, Zirui Hu, Yi Zhan, et al. **Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling**, The 33rd International World Wide Web Conference (WWW'2024).
+
+3. **Zheng Zhang**, Le Wu, Qi Liu*, Jiayu Liu, et al. **Understanding and Improving Fairness in Cognitive Diagnosis**, SCIENCE CHINA Information Sciences (SCIS). (CCF-A, JCR Q1, IF: 7.3)
+
+4. Zirui Hu, **Zheng Zhang**, Qi Liu, Haoyang Bi, et al. **Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework**, DASFAA 2024, July 2-5, 2024, Gifu, Japan.
+
+5. Zirui Hu, **Zheng Zhang**, Wenjun Feng, Qi Liu. **Achieving Universal Fairness in Machine Learning: A Multi-objective Optimization Perspective**, The 17th International Conference on Knowledge Science, Engineering and Management (KSEM 2024).
+
+6. Rui Li, Liuyang He, Qi Liu, Yuze Zhao, **Zheng Zhang**, Zhenya Huang. **CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework**, The 37th AAAI Conference on Artificial Intelligence (AAAI 2024).
+
+7. Weibo Gao, Qi Liu, Hao Wang, Linan Yue, **Zheng Zhang**, Xin Li, Yuanjing He. **Zero-1-to-3: Domain-level Zero-shot Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objectives**, The 37th AAAI Conference on Artificial Intelligence (AAAI 2024).
+
+
+8. Weibo Gao, Qi Liu, Linan Yue, Fangzhou Yao, Hao Wang, Yin Gu, **Zheng Zhang**. **Collaborative Cognitive Diagnosis with Disentangled Representation Learning**, Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
+
+9. Qingyang Mao, Qi Liu, Zhi Li, Likang Wu, Bing Lv, **Zheng Zhang**. **Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation**, In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
+
+
+### 2023
+
+1. **Zheng Zhang**, Qi Liu*, Hao Jiang, Fei Wang, et al. **FairLISA: Fair User Modeling with Limited Sensitive Attributes Information**, Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
+
+2. Weibo Gao, Hao Wang, Qi Liu, Fei Wang, Xin Lin, Linan Yue, **Zheng Zhang**, Rui Lv, Shijin Wang. **Leveraging Transferable Knowledge Concept Graph Embedding for Cold-Start Cognitive Diagnosis**, In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
+
+
+<!-- 
+## News
 
 ## Publications
+
+
+Weibo Gao, Qi Liu*, Rui Li, Yuze Zhao, Hao Wang, Linan Yue, Fangzhou Yao, Zheng Zhang. Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor, The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7, 2025. Accepted. CCF A
+
+Weibo Gao, Qi Liu*, Linan Yue, Fangzhou Yao, Rui Lv, Zheng Zhang, Hao Wang, Zhenya Huang. Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
 
 1. **Zheng Zhang**, Wei Song, Qi Liu, Qingyang Mao, et al. Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation. Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024) 
 
@@ -35,7 +95,7 @@ I’m  a third-year PhD candidate in  School of Computer Science and Technology,
 
 10. Weibo Gao, Qi Liu, Linan Yue, Fangzhou Yao, Hao Wang, Yin Gu, **Zheng Zhang**. Collaborative Cognitive Diagnosis with Disentangled Representation Learning.  Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024) 
 
-11. Qingyang Mao, Qi Liu, Zhi Li, Likang Wu, Bing Lv, **Zheng Zhang**. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
+11. Qingyang Mao, Qi Liu, Zhi Li, Likang Wu, Bing Lv, **Zheng Zhang**. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). -->
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
