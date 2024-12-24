@@ -15,8 +15,8 @@ I’m  a third-year PhD candidate in  School of Computer Science and Technology,
 ## 📰 News
 
 - 🎉 Two papers accepted at AAAI 2025. Congratulations to Weibo and Junfeng!
-- 🎉 Two papers accepted at KDD 2025. Congratulations to Lirui and Weibo!
-- 🎉 One paper accepted at EMNLP 2024 Main. Congratulations to Lirui!
+- 🎉 Two papers accepted at KDD 2025. Congratulations to Li Rui and Weibo!
+- 🎉 One paper accepted at EMNLP 2024 Main. Congratulations to Li Rui!
 - 🎉 One paper accepted at WSDM 2025. Congratulations to Yanmin!
 - 🎉 Two papers (one as first author) accepted at NeurIPS 2024. Congratulations to Weibo, and special thanks to Prof. Qi Liu and Prof. Zhenya Huang for the guidance!
 
