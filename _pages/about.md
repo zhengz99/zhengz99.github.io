@@ -9,13 +9,17 @@ redirect_from:
 ---
 
 
-I’m  a third-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**.
+I’m  a five-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**. 
+
+Currently, I am a visiting student at Nanyang Technological University (NTU), working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) and [Prof. Baosheng Yu](https://dr.ntu.edu.sg/cris/rp/rp02563).
+
 
 
 ## 📰 News
-
+- 🎉 One paper accepted at ICLR 2024. Congratulations to Zirui!
 - 🎉 Two papers accepted at AAAI 2025. Congratulations to Weibo and Junfeng!
 - 🎉 Two papers accepted at KDD 2025. Congratulations to Li Rui and Weibo!
+- 🏆 Honored to receive the National Scholarship for Ph.D. Students!
 - 🎉 One paper accepted at EMNLP 2024 Main. Congratulations to Li Rui!
 - 🎉 One paper accepted at WSDM 2025. Congratulations to Yanmin!
 - 🎉 Two papers (one as first author) accepted at NeurIPS 2024. Congratulations to Weibo, and special thanks to Prof. Qi Liu and Prof. Zhenya Huang for the guidance!
@@ -34,7 +38,11 @@ I’m  a third-year PhD candidate in  School of Computer Science and Technology,
 
 4. Rui Li, Junfeng Kang, Qi Liu*, Liyang He, **Zheng Zhang**, Yunhao Sha, Linbo Zhu, Zhenya Huang, MGS3: A Multi-Granularity Self-Supervised Code Search Framework. The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7. Accepted.
 
-5. Rui Li, Qi Liu, Liyang He, **Zheng Zhang**, Hao Zhang, Shengyu Ye, Junyu Lu, Zhenya Huang. Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+5. Rui Li, Qi Liu, Liyang He, **Zheng Zhang**, Hao Zhang, Shengyu Ye, Junyu Lu, Zhenya Huang. **Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models**. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+
+6. Yanmin Dong, Zhenya Huang, **Zheng Zhang**, Guanhao Zhao, Likang Wu, Hongke Zhao, Binbin Jin, Qi Liu. **Enhancing Code Search Intent with Programming Context Exploration**. Proceedings of the Eighteenth ACM International Conference on Web Search and Data Minin (WSDM '25)
+
+7. Zirui Hu, Yingjie Wang, **Zheng Zhang**, Hong Chen, Dacheng Tao. **A Statistical Approach for Controlled Training Data Detection**. ICLR'2025.
 
 ### 2024
 
