@@ -24,6 +24,13 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 - 🎉 One paper accepted at WSDM 2025. Congratulations to Yanmin!
 - 🎉 Two papers (one as first author) accepted at NeurIPS 2024. Congratulations to Weibo, and special thanks to Prof. Qi Liu and Prof. Zhenya Huang for the guidance!
 
+
+## 📄 Preprints
+1. Wang F., Gao W., Liu Q., **Zheng Zhang** et al. A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions, arXiv preprint, arXiv:2407.05458, 2024.
+
+2. **Zheng Zhang**, Ning Li., et al. The Other Side of the Coin: Exploring Fairness in Retrieval-Augmented Generation, arXiv preprint, arXiv:2504.12323, 2025.
+
+
 ## 📚 Publications
 
 ### 2025
