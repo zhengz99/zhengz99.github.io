@@ -16,11 +16,15 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 
 ## 📰 News
+- 🎉 Honored to be selected as an ICLR 2025 Notable Reviewer!
+- 🎉 Two papers accepted at ACL 2025 Main. Congratulations to Junfeng!
+- 🎉 One paper accepted at IJCAI 2025. Congratulations to Yi Zhan!
 - 🎉 One paper accepted at ICLR 2024. Congratulations to Zirui!
+- 🎉 One paper accepted at WWW 2025. Congratulations to Weibo!
 - 🎉 Two papers accepted at AAAI 2025. Congratulations to Weibo and Junfeng!
-- 🎉 Two papers accepted at KDD 2025. Congratulations to Li Rui and Weibo!
+- 🎉 Two papers accepted at KDD 2025. Congratulations to Rui Li and Weibo!
 - 🏆 Honored to receive the National Scholarship for Ph.D. Students!
-- 🎉 One paper accepted at EMNLP 2024 Main. Congratulations to Li Rui!
+- 🎉 One paper accepted at EMNLP 2024 Main. Congratulations to Rui Li!
 - 🎉 One paper accepted at WSDM 2025. Congratulations to Yanmin!
 - 🎉 Two papers (one as first author) accepted at NeurIPS 2024. Congratulations to Weibo, and special thanks to Prof. Qi Liu and Prof. Zhenya Huang for the guidance!
 
@@ -50,6 +54,12 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 6. Yanmin Dong, Zhenya Huang, **Zheng Zhang**, Guanhao Zhao, Likang Wu, Hongke Zhao, Binbin Jin, Qi Liu. **Enhancing Code Search Intent with Programming Context Exploration**. Proceedings of the Eighteenth ACM International Conference on Web Search and Data Minin (WSDM '25)
 
 7. Zirui Hu, Yingjie Wang, **Zheng Zhang**, Hong Chen, Dacheng Tao. **A Statistical Approach for Controlled Training Data Detection**. ICLR'2025.
+
+8. Yi Zhan, Qi Liu, Weibo Gao, **Zheng Zhang**, Tianfu Wang, Zhenya Huang, Junyu Lu, Shuanghong Shen. **CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models**. IJCAI 2025.
+
+9. Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, **Zheng Zhang**, Junzhe Jiang, Heng Yu, Yu Su. **PQR: Improving Dense Retrieval via Potential Query Modeling**. ACL 2025.
+
+10. Rui Li, Liyang He, Qi Liu, **Zheng Zhang**, Heng Yu, Yuyang Ye, Linbo Zhu, Yu Su. **UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation**. ACL 2025.
 
 ### 2024
 
