@@ -17,7 +17,7 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 ## 📰 News
 - 🎉 Honored to be selected as an ICLR 2025 Notable Reviewer!
-- 🎉 Two papers accepted at ACL 2025 Main. Congratulations to Junfeng!
+- 🎉 Two papers accepted at ACL 2025 Main. Congratulations to Junfeng and Rui Li!
 - 🎉 One paper accepted at IJCAI 2025. Congratulations to Yi Zhan!
 - 🎉 One paper accepted at ICLR 2024. Congratulations to Zirui!
 - 🎉 One paper accepted at WWW 2025. Congratulations to Weibo!
@@ -43,9 +43,7 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 2. Weibo Gao, Qi Liu*, Linan Yue, Fangzhou Yao, Rui Lv, **Zheng Zhang**, Hao Wang, Zhenya Huang. **Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
 
-
 3. Junfeng Kang, Rui Li, Qi Liu, Zhenya Huang, **Zheng Zhang**, Yanjiang Chen, Linbo Zhu, Yu Su. **Distribution-Driven Dense Retrieval: Modeling Many-to-One Query-Document Relationship**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
-
 
 4. Rui Li, Junfeng Kang, Qi Liu*, Liyang He, **Zheng Zhang**, Yunhao Sha, Linbo Zhu, Zhenya Huang, MGS3: A Multi-Granularity Self-Supervised Code Search Framework. The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7. Accepted.
 
