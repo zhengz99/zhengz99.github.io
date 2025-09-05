@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 
-I’m  a five-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**. 
+I’m  a final-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**. 
 
 Currently, I am a visiting student at Nanyang Technological University (NTU), working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) and [Prof. Baosheng Yu](https://dr.ntu.edu.sg/cris/rp/rp02563).
 
 
 
 ## 📰 News
+- 🎉 One paper has been accepted at ACM TOIS, grateful to all my collaborators!
 - 🎉 Honored to be selected as an ICLR 2025 Notable Reviewer!
 - 🎉 Two papers accepted at ACL 2025 Main. Congratulations to Junfeng and Rui Li!
 - 🎉 One paper accepted at IJCAI 2025. Congratulations to Yi Zhan!
@@ -38,26 +39,27 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 ## 📚 Publications
 
 ### 2025
+- **Zheng Zhang**, Qi Liu*, Zirui Hu, Yi Zhan, et al. **A Hybrid Adaptive Sampling Strategy for Fair and Accurate Meta-learned User Modeling**, ACM TOIS (CCF-A).
 
-1. Weibo Gao, Qi Liu*, Rui Li, Yuze Zhao, Hao Wang, Linan Yue, Fangzhou Yao, **Zheng Zhang**. **Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**, The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7, 2025. Accepted.
+- Weibo Gao, Qi Liu*, Rui Li, Yuze Zhao, Hao Wang, Linan Yue, Fangzhou Yao, **Zheng Zhang**. **Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**, The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7, 2025. Accepted.
 
-2. Weibo Gao, Qi Liu*, Linan Yue, Fangzhou Yao, Rui Lv, **Zheng Zhang**, Hao Wang, Zhenya Huang. **Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
+- Weibo Gao, Qi Liu*, Linan Yue, Fangzhou Yao, Rui Lv, **Zheng Zhang**, Hao Wang, Zhenya Huang. **Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
 
-3. Junfeng Kang, Rui Li, Qi Liu, Zhenya Huang, **Zheng Zhang**, Yanjiang Chen, Linbo Zhu, Yu Su. **Distribution-Driven Dense Retrieval: Modeling Many-to-One Query-Document Relationship**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
+- Junfeng Kang, Rui Li, Qi Liu, Zhenya Huang, **Zheng Zhang**, Yanjiang Chen, Linbo Zhu, Yu Su. **Distribution-Driven Dense Retrieval: Modeling Many-to-One Query-Document Relationship**, In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'2025), 2025. Accepted.
 
-4. Rui Li, Junfeng Kang, Qi Liu*, Liyang He, **Zheng Zhang**, Yunhao Sha, Linbo Zhu, Zhenya Huang, MGS3: A Multi-Granularity Self-Supervised Code Search Framework. The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7. Accepted.
+- Rui Li, Junfeng Kang, Qi Liu*, Liyang He, **Zheng Zhang**, Yunhao Sha, Linbo Zhu, Zhenya Huang, MGS3: A Multi-Granularity Self-Supervised Code Search Framework. The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2025), Toronto, Canada, August 3-7. Accepted.
 
-5. Rui Li, Qi Liu, Liyang He, **Zheng Zhang**, Hao Zhang, Shengyu Ye, Junyu Lu, Zhenya Huang. **Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models**. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+- Rui Li, Qi Liu, Liyang He, **Zheng Zhang**, Hao Zhang, Shengyu Ye, Junyu Lu, Zhenya Huang. **Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models**. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
 
-6. Yanmin Dong, Zhenya Huang, **Zheng Zhang**, Guanhao Zhao, Likang Wu, Hongke Zhao, Binbin Jin, Qi Liu. **Enhancing Code Search Intent with Programming Context Exploration**. Proceedings of the Eighteenth ACM International Conference on Web Search and Data Minin (WSDM '25)
+- Yanmin Dong, Zhenya Huang, **Zheng Zhang**, Guanhao Zhao, Likang Wu, Hongke Zhao, Binbin Jin, Qi Liu. **Enhancing Code Search Intent with Programming Context Exploration**. Proceedings of the Eighteenth ACM International Conference on Web Search and Data Minin (WSDM '25)
 
-7. Zirui Hu, Yingjie Wang, **Zheng Zhang**, Hong Chen, Dacheng Tao. **A Statistical Approach for Controlled Training Data Detection**. ICLR'2025.
+- Zirui Hu, Yingjie Wang, **Zheng Zhang**, Hong Chen, Dacheng Tao. **A Statistical Approach for Controlled Training Data Detection**. ICLR'2025.
 
-8. Yi Zhan, Qi Liu, Weibo Gao, **Zheng Zhang**, Tianfu Wang, Zhenya Huang, Junyu Lu, Shuanghong Shen. **CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models**. IJCAI 2025.
+- Yi Zhan, Qi Liu, Weibo Gao, **Zheng Zhang**, Tianfu Wang, Zhenya Huang, Junyu Lu, Shuanghong Shen. **CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models**. IJCAI 2025.
 
-9. Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, **Zheng Zhang**, Junzhe Jiang, Heng Yu, Yu Su. **PQR: Improving Dense Retrieval via Potential Query Modeling**. ACL 2025.
+- Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, **Zheng Zhang**, Junzhe Jiang, Heng Yu, Yu Su. **PQR: Improving Dense Retrieval via Potential Query Modeling**. ACL 2025.
 
-10. Rui Li, Liyang He, Qi Liu, **Zheng Zhang**, Heng Yu, Yuyang Ye, Linbo Zhu, Yu Su. **UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation**. ACL 2025.
+- Rui Li, Liyang He, Qi Liu, **Zheng Zhang**, Heng Yu, Yuyang Ye, Linbo Zhu, Yu Su. **UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation**. ACL 2025.
 
 ### 2024
 
