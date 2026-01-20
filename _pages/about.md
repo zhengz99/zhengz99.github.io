@@ -16,6 +16,8 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 
 ## 📰 News
+- 🎉 One paper has been accepted at WWW demo track. Congratulations to Wenjun!
+- 🎉 One paper has been accepted at AAAI. Congratulations to Shengyu!
 - 🎉 One paper has been accepted at ACM TOIS, grateful to all my collaborators!
 - 🎉 Honored to be selected as an ICLR 2025 Notable Reviewer!
 - 🎉 Two papers accepted at ACL 2025 Main. Congratulations to Junfeng and Rui Li!
@@ -37,6 +39,12 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 
 ## 📚 Publications
+
+### 2026
+
+- Shengyu Ye, Qi Liu, Hao Jiang, **Zheng Zhang**, Heng Yu, Zhenya Huang. **Themis: Automated Constraint-Aware Test Synthesis Framework for Code Reinforcement Learning**, AAAI 2026.
+
+- Wenjun Feng, Rui Li, **Zheng Zhang**, Zhenya Huang and Qi Liu. **Swen: A Cross‑Platform Desktop Assistant for Instant and Personalized Large‑Language‑Model Interaction**, WWW 2026 demo.
 
 ### 2025
 - **Zheng Zhang**, Qi Liu*, Zirui Hu, Yi Zhan, et al. **A Hybrid Adaptive Sampling Strategy for Fair and Accurate Meta-learned User Modeling**, ACM TOIS (CCF-A).
