@@ -16,13 +16,15 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 
 ## 📰 News
+- 🎉 Three paper (one as first author) has been accepted at ACL 2026. Congratulations to Ning Li, Zirui, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
+- 🎉 One paper has been accepted at ICLR 2026. Congratulations to Zirui!
 - 🎉 One paper has been accepted at WWW demo track. Congratulations to Wenjun!
 - 🎉 One paper has been accepted at AAAI. Congratulations to Shengyu!
 - 🎉 One paper has been accepted at ACM TOIS, grateful to all my collaborators!
 - 🎉 Honored to be selected as an ICLR 2025 Notable Reviewer!
 - 🎉 Two papers accepted at ACL 2025 Main. Congratulations to Junfeng and Rui Li!
 - 🎉 One paper accepted at IJCAI 2025. Congratulations to Yi Zhan!
-- 🎉 One paper accepted at ICLR 2024. Congratulations to Zirui!
+- 🎉 One paper accepted at ICLR 2025. Congratulations to Zirui!
 - 🎉 One paper accepted at WWW 2025. Congratulations to Weibo!
 - 🎉 Two papers accepted at AAAI 2025. Congratulations to Weibo and Junfeng!
 - 🎉 Two papers accepted at KDD 2025. Congratulations to Rui Li and Weibo!
@@ -45,6 +47,15 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 - Shengyu Ye, Qi Liu, Hao Jiang, **Zheng Zhang**, Heng Yu, Zhenya Huang. **Themis: Automated Constraint-Aware Test Synthesis Framework for Code Reinforcement Learning**, AAAI 2026.
 
 - Wenjun Feng, Rui Li, **Zheng Zhang**, Zhenya Huang and Qi Liu. **Swen: A Cross‑Platform Desktop Assistant for Instant and Personalized Large‑Language‑Model Interaction**, WWW 2026 demo.
+
+- Zirui Hu, **Zheng Zhang**, Yingjie Wang, Leszek Rutkowski, Dacheng TaoCoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift. ICLR 2026.
+
+- **Zheng Zhang**, Qi Liu*, Siyuan Liang, et al. Controllable Contamination Detection with Statistical Guarantees. ACL 2026 Main.
+
+- Ning Li, **Zheng Zhang**, Zhenya Huang, Rui Li, Yi Zhan, Yinbo Luo, Qi Liu, Enhong Chen. LongTutor: Benchmarking Large Language Models for Long-term Personalized Tutoring. ACL 2026 Main.
+
+- Zirui Hu, **Zheng Zhang**, Yingjie Wang, Dacheng Tao. SAFER: A Controllable Safeguard for LLMs against Backdoor Attacks. ACL 2026 Findings.
+
 
 ### 2025
 - **Zheng Zhang**, Qi Liu*, Zirui Hu, Yi Zhan, et al. **A Hybrid Adaptive Sampling Strategy for Fair and Accurate Meta-learned User Modeling**, ACM TOIS (CCF-A).
