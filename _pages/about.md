@@ -16,6 +16,8 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 
 ## 📰 News
+- 🎉 Two papers (one as first author) has been accepted at TKDE. Congratulations to Qingyang, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
+- 🎉 One paper has been accepted at ICML 2026 Congratulations to Zirui!
 - 🎉 Three paper (one as first author) has been accepted at ACL 2026. Congratulations to Ning Li, Zirui, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
 - 🎉 One paper has been accepted at ICLR 2026. Congratulations to Zirui!
 - 🎉 One paper has been accepted at WWW demo track. Congratulations to Wenjun!
@@ -37,8 +39,6 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 ## 📄 Preprints
 1. Wang F., Gao W., Liu Q., **Zheng Zhang** et al. A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions, arXiv preprint, arXiv:2407.05458, 2024.
 
-2. **Zheng Zhang**, Ning Li., et al. The Other Side of the Coin: Exploring Fairness in Retrieval-Augmented Generation, arXiv preprint, arXiv:2504.12323, 2025.
-
 
 ## 📚 Publications
 
@@ -56,6 +56,9 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 - Zirui Hu, **Zheng Zhang**, Yingjie Wang, Dacheng Tao. SAFER: A Controllable Safeguard for LLMs against Backdoor Attacks. ACL 2026 Findings.
 
+- **Zheng Zhang**, Ning Li., et al. The Other Side of the Coin: Exploring Fairness in Retrieval-Augmented Generation. TKDE.
+
+- Qingyang Mao, Qi Liu, Zhi Li, Mingyue Cheng, **Zheng Zhang**, Rui Li. PoTable: Towards Systematic Thinking via Stage-oriented Plan-then-Execute Reasoning on Tables. TKDE.
 
 ### 2025
 - **Zheng Zhang**, Qi Liu*, Zirui Hu, Yi Zhan, et al. **A Hybrid Adaptive Sampling Strategy for Fair and Accurate Meta-learned User Modeling**, ACM TOIS (CCF-A).
