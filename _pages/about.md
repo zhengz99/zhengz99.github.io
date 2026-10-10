@@ -9,16 +9,29 @@ redirect_from:
 ---
 
 
-I’m  a final-year PhD candidate in  School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). My research interests are **Fairness in Machine Learning**, **Trustworthiness in LLM** and  **User Modeling**. 
+I just received my Ph.D. from the School of Computer Science and Technology, University of Science and Technology of China (USTC), where I was a member of the State Key Laboratory of Cognitive Intelligence and was supervised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/). I am honored to receive the **CAS President's Special Award**, the highest distinction for doctoral graduates of the Chinese Academy of Sciences.
 
-Currently, I am a visiting student at Nanyang Technological University (NTU), working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) and [Prof. Baosheng Yu](https://dr.ntu.edu.sg/cris/rp/rp02563).
+I will join Nanyang Technological University (NTU) as a **Research Fellow**, working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343). My recent research focuses on **World Models**, with broader interests in **Trustworthy AI** and **AI for Education**.
+
+
+## 🔬 Research
+
+My research studies the learning and evaluation of reliable predictive models, spanning world modeling, trustworthy AI, and personalized education. My work can be summarized into three directions:
+
+- **World Models (recent focus):** developing and evaluating models that learn predictive representations of the world, with an emphasis on world-action modeling, physical intelligence, and reliable evaluation.
+- **Trustworthy AI:** improving the fairness, factuality, safety, and reliability of machine learning systems and large language models, often with statistical guarantees.
+- **AI for Education:** building fair and personalized educational systems through user modeling, cognitive diagnosis, knowledge tracing, and generative agents.
 
 
 
 ## 📰 News
-- 🎉 Two papers (one as first author) has been accepted at TKDE. Congratulations to Qingyang, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
+- 🏆 Honored to receive the CAS President's Special Award, the highest distinction for doctoral graduates of the Chinese Academy of Sciences!
+- 🎉 I will join Nanyang Technological University (NTU) as a Research Fellow, working with Prof. Dacheng Tao.
+- 🎉 One paper has been accepted at EMNLP 2026 Main!
+- 📄 We released two new works on world models: **Kairos** and **A Survey of World Model Benchmarks**.
+- 🎉 Two papers (one as first author) have been accepted at TKDE. Congratulations to Qingyang, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
 - 🎉 One paper has been accepted at ICML 2026 Congratulations to Zirui!
-- 🎉 Three paper (one as first author) has been accepted at ACL 2026. Congratulations to Ning Li, Zirui, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
+- 🎉 Three papers (one as first author) have been accepted at ACL 2026. Congratulations to Ning Li, Zirui, and special thanks to Prof. Qi Liu and Prof. Dacheng Tao for the guidance!
 - 🎉 One paper has been accepted at ICLR 2026. Congratulations to Zirui!
 - 🎉 One paper has been accepted at WWW demo track. Congratulations to Wenjun!
 - 🎉 One paper has been accepted at AAAI. Congratulations to Shengyu!
@@ -37,18 +50,24 @@ Currently, I am a visiting student at Nanyang Technological University (NTU), wo
 
 
 ## 📄 Preprints
-1. Wang F., Gao W., Liu Q., **Zheng Zhang** et al. A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions, arXiv preprint, arXiv:2407.05458, 2024.
+1. Kairos Team: Fei Wang, Shan You, Qiming Zhang, et al., **Zheng Zhang**, Dacheng Tao, Xiaogang Wang. [**Kairos: A Regret-Aware Native World-Action Model Stack for Physical AI**](https://arxiv.org/abs/2606.16533). Kairos Technical Report, 2026.
+
+2. **Zheng Zhang**, Zhixiang Guo, Yuan Si, Siyuan Liang, Shunyu Liu, Weibo Gao, Song Wang, Leszek Rutkowski, Giuseppe Valenzise, Ming-Hsuan Yang, Lin William Cong, M. Jamal Deen, Sally Cripps, Dacheng Tao*. [**A Survey of World Model Benchmarks**](https://www.preprints.org/manuscript/202609.0665/v1). Preprint, 2026. [[Project Page]](https://world-model-benchmarks.github.io/)
+
+3. Wang F., Gao W., Liu Q., **Zheng Zhang** et al. A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions, arXiv preprint, arXiv:2407.05458, 2024.
 
 
 ## 📚 Publications
 
 ### 2026
 
+- **Zheng Zhang**, Yifan Wu, Yuxiang Zhou, Qi Liu, Qingyang Mao, Ning Li, Weibo Gao, QiYuan Shi, Zhenya Huang, Baosheng Yu. [**Beyond Single-Attribute Auditing: A Configurable Multi-Attribute Benchmark for Intersectional Fairness in LLMs**](https://openreview.net/forum?id=plbHhQ4GCM). EMNLP 2026 Main. [[PDF]](https://openreview.net/pdf?id=plbHhQ4GCM)
+
 - Shengyu Ye, Qi Liu, Hao Jiang, **Zheng Zhang**, Heng Yu, Zhenya Huang. **Themis: Automated Constraint-Aware Test Synthesis Framework for Code Reinforcement Learning**, AAAI 2026.
 
 - Wenjun Feng, Rui Li, **Zheng Zhang**, Zhenya Huang and Qi Liu. **Swen: A Cross‑Platform Desktop Assistant for Instant and Personalized Large‑Language‑Model Interaction**, WWW 2026 demo.
 
-- Zirui Hu, **Zheng Zhang**, Yingjie Wang, Leszek Rutkowski, Dacheng TaoCoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift. ICLR 2026.
+- Zirui Hu, **Zheng Zhang**, Yingjie Wang, Leszek Rutkowski, Dacheng Tao. **CoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift**. ICLR 2026.
 
 - **Zheng Zhang**, Qi Liu*, Siyuan Liang, et al. Controllable Contamination Detection with Statistical Guarantees. ACL 2026 Main.
 
